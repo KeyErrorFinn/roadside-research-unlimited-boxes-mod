@@ -1,0 +1,9 @@
+{
+  "name": "Unlimited_Universal_Boxes",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/KeyErrorFinn/roadside-research-unlimited-boxes-mod",
+  "description": "Removes the 150 universal-box spawn limit from the Universal Box Dispenser in Roadside Research. Other spawn limits remain unchanged.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.788"
+  ]
+}

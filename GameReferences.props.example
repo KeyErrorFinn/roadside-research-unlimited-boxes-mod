@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <BepInExDir>C:\path\to\Roadside Research\BepInEx</BepInExDir>
+  </PropertyGroup>
+</Project>

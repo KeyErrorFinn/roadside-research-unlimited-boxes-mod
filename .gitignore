@@ -1,0 +1,9 @@
+.tools/
+.research/
+bin/
+obj/
+GameReferences.props
+*.user
+.vs/
+dist/*
+!dist/Unlimited_Universal_Boxes-1.0.1.zip
