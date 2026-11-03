@@ -14,10 +14,12 @@
   <img alt=".NET 6" src="https://img.shields.io/badge/.NET-6-512BD4?logo=dotnet&logoColor=fff" />
   <img alt="Unity IL2CPP" src="https://img.shields.io/badge/Unity-IL2CPP-000000?logo=unity&logoColor=fff" />
   <img alt="BepInEx 6" src="https://img.shields.io/badge/BepInEx-6-F59E0B" />
-  <img alt="Thunderstore" src="https://img.shields.io/badge/Thunderstore-package-242424" />
+  <a href="https://old.thunderstore.io/c/roadside-research/p/KeyErrorFinn/Unlimited_Universal_Boxes/"><img alt="Thunderstore" src="https://img.shields.io/badge/Thunderstore-package-242424" /></a>
 </p>
 
 A BepInEx mod for *Roadside Research* that removes the **150-box spawn limit** from the **Universal Box Dispenser**.
+
+[Download on Thunderstore](https://old.thunderstore.io/c/roadside-research/p/KeyErrorFinn/Unlimited_Universal_Boxes/) · [GitHub releases](https://github.com/KeyErrorFinn/roadside-research-unlimited-boxes-mod/releases)
 
 ## Features
 
@@ -37,7 +39,7 @@ BepInEx 5 and Unity Mono builds are incompatible.
 
 ### Mod manager
 
-Import `dist/Unlimited_Universal_Boxes-1.0.1.zip` into Thunderstore Mod Manager or r2modman. Install the declared BepInEx IL2CPP dependency and start the game through the same modded profile.
+Install from the [Thunderstore page](https://old.thunderstore.io/c/roadside-research/p/KeyErrorFinn/Unlimited_Universal_Boxes/) using Thunderstore Mod Manager or r2modman, then start the game through the same modded profile. You can also import the ZIP from [GitHub releases](https://github.com/KeyErrorFinn/roadside-research-unlimited-boxes-mod/releases).
 
 ### Manual
 
